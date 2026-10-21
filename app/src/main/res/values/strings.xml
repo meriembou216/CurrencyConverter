@@ -7,13 +7,23 @@
     <string name="msg_montant_vide">Veuillez saisir un montant</string>
     <string name="touche_effacer">C</string>
     <string name="touche_point">.</string>
-    <!-- touche_0 ... touche_9 : même principe, un string par chiffre -->
     <string name="touche_0">0</string>
     <string name="touche_1">1</string>
-    <!-- etc. jusqu'à touche_9 -->
+    <string name="touche_2">2</string>
+    <string name="touche_3">3</string>
+    <string name="touche_4">4</string>
+    <string name="touche_5">5</string>
+    <string name="touche_6">6</string>
+    <string name="touche_7">7</string>
+    <string name="touche_8">8</string>
+    <string name="touche_9">9</string>
 
     <string-array name="devises">
-        <item>USD</item><item>EUR</item><item>TND</item>
-        <item>GBP</item><item>JPY</item><item>CAD</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>TND</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>CAD</item>
     </string-array>
 </resources>
